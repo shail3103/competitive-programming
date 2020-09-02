@@ -1,19 +1,7 @@
-#include<iostream>
-#include<vector>
-#include<algorithm>
-#include <iomanip>
-#include<math.h>
-#include<string>
 #include<bits/stdc++.h>
-#include<stack>
 using namespace std;
 #define ll long long
-#include <sstream>
-#include<map>
-#define lop(n) for(ll i=0;i<n;i++)
-#define loop(a,b) for(ll i=a;i<b;i++)
-#include <cstring>
-#define MOD 1000000007
+shailja
 #define en "\n"
 #define F first
 #define S second
